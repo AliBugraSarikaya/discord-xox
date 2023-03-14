@@ -1,1 +1,1 @@
-You enter your name and enter your move.
+When you run the code, the bot will first ask for the names of player 1 and player 2. You will enter your names. The bot will then ask about your movement. You will enter your move. You can have a look at the discord_xox.pdf file to understand how it works.
